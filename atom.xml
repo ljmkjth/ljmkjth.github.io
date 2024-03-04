@@ -6,7 +6,7 @@
   <link href="http://www.liuzhizuo.com/atom.xml" rel="self"/>
   
   <link href="http://www.liuzhizuo.com/"/>
-  <updated>2024-03-04T14:42:09.498Z</updated>
+  <updated>2024-03-04T14:46:36.809Z</updated>
   <id>http://www.liuzhizuo.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://www.liuzhizuo.com/2024/02/20/test/"/>
     <id>http://www.liuzhizuo.com/2024/02/20/test/</id>
     <published>2024-02-20T09:24:00.000Z</published>
-    <updated>2024-03-04T14:42:09.498Z</updated>
+    <updated>2024-03-04T14:46:36.809Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/../images/aaa.png"></p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"/../images/normalvideo.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
     
       
